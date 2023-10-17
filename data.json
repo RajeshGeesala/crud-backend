@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rajesh updated",
+      "job": "Developer uu",
+      "email": "rajeshgeesala1998@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ramesh",
+      "job": "Developer",
+      "email": "ramesh1998@gmail.com"
+    },
+    {
+      "id": 3,
+      "email": "sandeep.1234@gmail.com",
+      "job": "Cloud Engineer",
+      "name": "Sandeep"
+    }
+  ]
+}

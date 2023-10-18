@@ -2,21 +2,33 @@
   "users": [
     {
       "id": 1,
-      "name": "Rajesh updated",
-      "job": "Developer uu",
+      "name": "Rajesh Geesala",
+      "job": "Developer ",
       "email": "rajeshgeesala1998@gmail.com"
     },
     {
       "id": 2,
-      "name": "Ramesh",
+      "name": "Ramesh Edited",
       "job": "Developer",
       "email": "ramesh1998@gmail.com"
     },
     {
-      "id": 3,
-      "email": "sandeep.1234@gmail.com",
+      "name": "Sandeep",
+      "email": "sandepp1234@gmail.com",
       "job": "Cloud Engineer",
-      "name": "Sandeep"
+      "id": 3
+    },
+    {
+      "name": "Subadra",
+      "email": "subadra1234@gmail.com",
+      "job": "Doctor",
+      "id": 4
+    },
+    {
+      "name": "Divya",
+      "email": "divya1234@gmail.com",
+      "job": "Developer",
+      "id": 5
     }
   ]
 }
